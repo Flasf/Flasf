@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥴I'm currently working on a 2D Videogame<br>🤩I'm looking to collaborate on Open Source Videogame Projects<br>🫠I'm looking for help with Unity and C# development<br>🧠I'm currently learning C#<br>🎮Ask me about Videogames :)<br>Fun fact: coding is fun... when your code works.
+🥴I'm currently working on a 2D Videogame<br>🤩I'm looking to collaborate on Open Source Projects some day<br>🫠I'm looking to help with Unity and C# development<br>🧠I'm always learning something new.<br>🎮Ask me about Videogames :)<br>Fun fact: coding is fun... when your code works.
 
 
 ## 🌐 Socials:
